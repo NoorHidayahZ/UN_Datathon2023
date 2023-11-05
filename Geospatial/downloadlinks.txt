@@ -1,0 +1,12 @@
+https://www.diva-gis.org/datadown
+inland water - https://biogeo.ucdavis.edu/data/diva/wat/MYS_wat.zip
+
+
+https://geohub.mygeoportal.gov.my/catalogue/#/?f=dataset
+
+
+
+https://data.humdata.org/dataset/hotosm_mys_waterways
+
+
+https://earthworks.stanford.edu/catalog/stanford-ph318vf2214
