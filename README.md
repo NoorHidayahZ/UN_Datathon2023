@@ -23,4 +23,4 @@ Datathon participants will develop innovative data-driven applications, tools or
 - Pollution
 
 ## SDG(S) of Our Project
-<img src="images/sdg2.png" width="200"> <img src="images/sdg13.png" width="200"> <img src="images/sdg14.png" width="200">
+<img src="images/sdg2.png" width="150"> <img src="images/sdg13.png" width="150"> <img src="images/sdg14.png" width="150">
