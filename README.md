@@ -1,7 +1,20 @@
 # UN_Datathon2023
 
 ## Team Members of Datatricks
-![](images/team_photo)
+![](images/team_photo.jpg)
+
+- Dr. Mohamad Shukor bin Talib 
+- Dr. Yusliza Binti Yusoff
+- Dr. Haslina Hashim
+- Dr. Nor Erne Nazira Bazin 
+- Dr. Noor Hidayah Zakaria
+
+## Key of Transitions
+**climate change, biodiversity loss and pollution**
+
+## SDG(S) of Our Project
+
+
 
 Following the success of the past three hackathons, the United Nations Committee of Experts on Big Data and Data Science for Official Statistics (UNCEBD), Major Group for Children and Youth (MGCY), Uruguay's National Institute of Statistics, and the Global Partnership for Sustainable Development Data are hosting the "2023 UN Datathon". This is an exciting opportunity for students and data professionals to contribute solutions to the challenges of the Sustainable Development Goals.
 
