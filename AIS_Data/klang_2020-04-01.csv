@@ -1,0 +1,16 @@
+,geo_name,date,vessel_type,num_ships
+0,Port Klang,2020-04-01,Cargo,3
+1,Port Klang,2020-04-04,Cargo,1
+2,Port Klang,2020-04-07,Cargo,1
+3,Port Klang,2020-04-07,Tanker,1
+4,Port Klang,2020-04-04,Tanker,1
+5,Port Klang,2020-04-19,Cargo,1
+6,Port Klang,2020-04-08,Tanker,1
+7,Port Klang,2020-04-27,Tanker,1
+8,Port Klang,2020-04-11,Tanker,1
+9,Port Klang,2020-04-26,Tanker,1
+10,Port Klang,2020-04-27,Cargo,1
+11,Port Klang,2020-04-20,Cargo,1
+12,Port Klang,2020-04-13,Tanker,1
+13,Port Klang,2020-04-25,Tanker,1
+14,Port Klang,2020-04-03,Cargo,1
